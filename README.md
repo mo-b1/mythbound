@@ -19,7 +19,7 @@ This repository contains the complete source code, object-oriented engine, and a
 ## Tech Stack
 
 * **Language:** Python 3
-* **Libaries:** Pygame, socket, json, threading
+* **Libaries:** pygame-ce, socket, json, threading
 
 
 ## Installation & Play
